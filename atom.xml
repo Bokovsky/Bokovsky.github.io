@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bokovsky.github.io</id>
     <title>网上冲浪指南</title>
-    <updated>2020-12-03T07:28:30.015Z</updated>
+    <updated>2020-12-03T07:37:47.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bokovsky.github.io"/>
     <link rel="self" href="https://bokovsky.github.io/atom.xml"/>
-    <subtitle>一个简单的网页导航</subtitle>
+    <subtitle>For my love.</subtitle>
     <logo>https://bokovsky.github.io/images/avatar.png</logo>
     <icon>https://bokovsky.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 网上冲浪指南</rights>

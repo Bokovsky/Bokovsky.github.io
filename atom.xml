@@ -2,34 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bokovsky.github.io</id>
     <title>网上冲浪指南</title>
-    <updated>2020-12-03T09:03:39.012Z</updated>
+    <updated>2021-04-29T13:19:10.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bokovsky.github.io"/>
     <link rel="self" href="https://bokovsky.github.io/atom.xml"/>
     <subtitle>For my love.</subtitle>
     <logo>https://bokovsky.github.io/images/avatar.png</logo>
     <icon>https://bokovsky.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 网上冲浪指南</rights>
-    <entry>
-        <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://bokovsky.github.io/post/about/</id>
-        <link href="https://bokovsky.github.io/post/about/">
-        </link>
-        <updated>2020-12-03T08:35:50.000Z</updated>
-        <content type="html"><![CDATA[<p>写给女朋友的网址导航，希望她能喜欢。<br>
-基于 <strong>Gridea + GitHub Pages</strong> 搭建。<br>
-感谢GitHub用户 <strong>Imm124</strong>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a> 开发的<a href="https://github.com/lmm214/gridea-theme-webstack">主题</a>！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于本站]]></title>
-        <id>https://bokovsky.github.io/post/uIyVIrgth/</id>
-        <link href="https://bokovsky.github.io/post/uIyVIrgth/">
-        </link>
-        <updated>2020-12-03T08:35:50.000Z</updated>
-        <content type="html"><![CDATA[<p>写给女朋友的网址导航，希望她能喜欢。<br>
-基于 <strong>Gridea + GitHub Pages</strong> 搭建。<br>
-感谢GitHub用户 <strong>Imm124</strong>基于<a href="https://github.com/WebStackPage/WebStackPage.github.io">WebStackPage</a> 开发的<a href="https://github.com/lmm214/gridea-theme-webstack">主题</a>！</p>
-]]></content>
-    </entry>
+    <rights>All rights reserved 2021, 网上冲浪指南</rights>
 </feed>
